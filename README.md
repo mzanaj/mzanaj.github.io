@@ -5,7 +5,9 @@ In this interface, you will find links to homeworks and projects that I have com
 ## Master's Courses UMICH
 
   1. STATISTICAL LEARNING: LINEAR REGRESSION
-     - Skills
+     - Skills: R,RMarkdown Reporting, Data Modeling & Anlysis
+     - Topics: 
+     - Repository: https://github.com/mzanaj/Linear-Models-with-R
   
   2. DATA SCIENCE AND ANALYTICS WITH PYTHON
   
