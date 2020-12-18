@@ -4,7 +4,7 @@ In this interface, you will find links to homeworks and projects that I have com
 
 ## Master's Courses UMICH
 
-**STATISTICAL LEARNING: LINEAR REGRESSION**, this focues on this and that. 
+-  STATISTICAL LEARNING: LINEAR REGRESSION this focues on this and that
 
      - Skills: R,RMarkdown Reporting, Data Modeling & Anlysis
      - Topics: linear regression, ANOVA, diagnostics, Huber's robust regression, LAD, model selection (Mallow's Cp, Adjusted R^2, Ridge, Lasso), Binomial & Poisson regression
