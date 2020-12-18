@@ -5,6 +5,7 @@ In this interface, you will find links to homeworks and projects that I have com
 ## Master's Courses UMICH
 
 **STATISTICAL LEARNING: LINEAR REGRESSION**
+ The course is an overview of Regression, and its application through R. This is a master's course. As a result, it attemps to cover both theory & practice with a depth that allows for a more than necessary understanding of liner models.
 
 | | | |
 |-|-|-|
