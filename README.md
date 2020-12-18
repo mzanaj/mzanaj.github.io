@@ -5,6 +5,7 @@ In this interface, you will find links to homeworks and projects that I have com
 ## Master's Courses UMICH
 
 **STATISTICAL LEARNING: LINEAR REGRESSION**
+
 | | | |
 |-|-|-|
 |__Skill__| R, RMarkdown Reporting, Data Modeling & Analysis |
@@ -12,23 +13,30 @@ In this interface, you will find links to homeworks and projects that I have com
 |__Repository__| https://github.com/mzanaj/Linear-Models-with-R |
 
    
+**DATA SCIENCE AND ANALYTICS WITH PYTHON**
+
+| | | |
+|-|-|-|
+|__Skill__| R, RMarkdown Reporting, Data Modeling & Analysis |
+|__Topics__| linear regression, ANOVA, diagnostics, Huber's robust regression, LAD, model selection (Mallow's Cp, Adjusted R^2, Ridge, Lasso), Binomial & Poisson regression |
+|__Repository__| https://github.com/mzanaj/Linear-Models-with-R |  
+  
+**INFORMATION VISUALIZATION**
+  
+**APPLIED MACHINE LEARNING**
+  
+  
+**DATA MINING**
+  
  
--    **DATA SCIENCE AND ANALYTICS WITH PYTHON**
+ 
+ STATISTICAL LEARNING??
   
   
-  3. INFORMATION VISUALIZATION
-  
-  
-  4. STATISTICAL LEARNING 
-  
-  
-  5. APPLIED MACHINE LEARNING
-  
-  
-  6. DATA MINING 
-
-
+ 
 ## Contact Info
 LinkedIn: www.linkedin.com/in/mzanaj
+
 Personal Website: https://mzanaj.blogspot.com/ 
+
 email: mzanaj@umich.edu 
