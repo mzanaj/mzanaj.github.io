@@ -5,7 +5,7 @@ In this interface, you will find links to homeworks and projects that I have com
 ## Master's Courses UMICH
 
 -  **STATISTICAL LEARNING: LINEAR REGRESSION**
-
+--------------|-------------------------------------------------|
               |                                                 |
 ------------- | ------------------------------------------------|
 Skill         |   R,RMarkdown Reporting, Data Modeling & Anlysis|
