@@ -5,7 +5,7 @@ In this interface, you will find links to homeworks and projects that I have com
 ## Master's Courses UMICH
 
 -  **STATISTICAL LEARNING: LINEAR REGRESSION**
-
+This repository was for my class in regression it goes over the basics. 
      - *Skills*: R,RMarkdown Reporting, Data Modeling & Anlysis
      - *Topics*: linear regression, ANOVA, diagnostics, Huber's robust regression, LAD, model selection (Mallow's Cp, Adjusted R^2, Ridge, Lasso), Binomial & Poisson regression
      - *Repository*: https://github.com/mzanaj/Linear-Models-with-R
