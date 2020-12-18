@@ -6,15 +6,12 @@ In this interface, you will find links to homeworks and projects that I have com
 
 -  **STATISTICAL LEARNING: LINEAR REGRESSION**
 
- Skill        |   R,RMarkdown Reporting, Data Modeling & Anlysis|
+              |                                                 |
 ------------- | ------------------------------------------------|
+Skill         |   R,RMarkdown Reporting, Data Modeling & Anlysis|
 Topics        | linear regression, ANOVA, diagnostics, Huber's robust regression, LAD, model selection (Mallow's Cp, Adjusted R^2, Ridge, Lasso), Binomial & Poisson regression  |
 Repository    | https://github.com/mzanaj/Linear-Models-with-R |
 
-
-     - *Skills*: R,RMarkdown Reporting, Data Modeling & Anlysis
-     - *Topics*: linear regression, ANOVA, diagnostics, Huber's robust regression, LAD, model selection (Mallow's Cp, Adjusted R^2, Ridge, Lasso), Binomial & Poisson regression
-     - *Repository*: https://github.com/mzanaj/Linear-Models-with-R
   
 -    **DATA SCIENCE AND ANALYTICS WITH PYTHON**
   
