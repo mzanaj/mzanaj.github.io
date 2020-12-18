@@ -5,8 +5,7 @@ In this interface, you will find links to homeworks and projects that I have com
 ## Master's Courses UMICH
 
 -  **STATISTICAL LEARNING: LINEAR REGRESSION**
---------------|-------------------------------------------------|
-    s          |                d                                 |
+    s         |                d                                |
 ------------- | ------------------------------------------------|
 Skill         |   R,RMarkdown Reporting, Data Modeling & Anlysis|
 Topics        | linear regression, ANOVA, diagnostics, Huber's robust regression, LAD, model selection (Mallow's Cp, Adjusted R^2, Ridge, Lasso), Binomial & Poisson regression  |
