@@ -1,4 +1,6 @@
-# Welcome to dasvidanja.github.io  (Work in progress...)
+# Welcome to Martin Zanaj's Github 
+
+In this interface, you will find links to homeworks and projects that I have completed as a result of my master's degree. The goal is to showcase the different topics and skills that I've been able to acquire and develop. 
 
 ## Master's Courses UMICH
 
