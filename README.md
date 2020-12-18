@@ -6,6 +6,11 @@ In this interface, you will find links to homeworks and projects that I have com
 
 -  **STATISTICAL LEARNING: LINEAR REGRESSION**
 
+| | | |
+|-|-|-|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
+
      ""       |                   ""                            |
 ------------- | ------------------------------------------------|
 Skill         |   R, RMarkdown Reporting, Data Modeling & Anlysis|
