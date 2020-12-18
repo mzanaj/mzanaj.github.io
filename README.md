@@ -6,7 +6,7 @@ In this interface, you will find links to homeworks and projects that I have com
 
 -  **STATISTICAL LEARNING: LINEAR REGRESSION**
 
-  Skill       |                Topic                            |
+     ""       |                                                 |
 ------------- | ------------------------------------------------|
 Skill         |   R, RMarkdown Reporting, Data Modeling & Anlysis|
 Topics        | linear regression, ANOVA, diagnostics, Huber's robust regression, LAD, model selection (Mallow's Cp, Adjusted R^2, Ridge, Lasso), Binomial & Poisson regression  |
