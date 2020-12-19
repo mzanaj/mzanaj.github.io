@@ -58,7 +58,7 @@ One of my favorite course where I was able to take the theory of statistical met
 |-|-|-|
 |__Skill__| |
 |__Topics__|  |
-|__HW Repository__| |  
+|__HW Repository__| https://github.com/mzanaj/Applied-Machine-Learning |  
   
 **DATA MINING**
 
@@ -68,7 +68,7 @@ This course was an introduction to the world of data mining, which I've come to 
 |-|-|-|
 |__Skill__| |
 |__Topics__|  |
-|__HW Repository__| |  
+|__HW Repository__| https://github.com/mzanaj/Data-Mining |  
 
 
 **PERSONAL ENDEVORS**
