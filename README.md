@@ -10,7 +10,7 @@ This course is an overview of Regression, and its application through R. This is
 
 | | | |
 |-|-|-|
-|__Skill__| R, RMarkdown Reporting, Data Modeling & Analysis |
+|__Skills__| R, RMarkdown Reporting, Data Modeling & Analysis |
 |__Topics__| linear regression, ANOVA, diagnostics, Huber's robust regression, LAD, model selection (Mallow's Cp, Adjusted R^2, Ridge, Lasso), Binomial & Poisson regression |
 |__HW Repository__| https://github.com/mzanaj/Linear-Models-with-R |
 
@@ -21,7 +21,7 @@ This course was my introduction to the world of Python and its popular packages.
 
 | | | |
 |-|-|-|
-|__Skill__| Python, SQL |
+|__Skills__| Python, Jupyter, SQL |
 |__Packages__| functools, itertools, numpy, pandas, matplotlib, re, urllib.request, sqlite3|
 |__Topics__| functions, string/file/dataFrame manipulation, class, statistics, SQL Queries, time analysis|
 |__HW Repository__| https://github.com/mzanaj/Data-Science-Aanalytics-with-Python |  
@@ -33,7 +33,7 @@ Perhaps a course that tought the meanining of "One picture a thousands words." T
 
 | | | |
 |-|-|-|
-|__Skill__| |
+|__Skills__|Jupyter, Google Collab, |
 |__Topics__|  |
 |__HW Repository__| |  
 
