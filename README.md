@@ -78,7 +78,7 @@ This course was an introduction to the world of data mining, which I've come to 
 | |
 |-|
 |**Certifications**|
-|Notes: These are certs that attests the completion of Data Camp courses. Data Camp is an online platform to develop DS skills| 
+|Notes: These are certs that attest the completion of Data Camp courses. Data Camp is an online platform to develop DS skills| 
 |Repository: https://github.com/mzanaj/Data-Camp|
 
 | |
