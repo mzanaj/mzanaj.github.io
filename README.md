@@ -33,7 +33,7 @@ Perhaps a course that thought me the meanining of "One picture a thousands words
 
 | | |
 |-|-|
-|__Skills__|Jupyter, Google Collab, Tableau, Altair, HTML |
+|__Skills__|Google Collab, Tableau, Altair, HTML |
 |__Topics__| line charts, bar graphs, aesthetics, annotations, heatmaps, interactive visualizaations |
 |__HW Repository__| https://github.com/mzanaj/Information-Visualization |  
 
