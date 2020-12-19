@@ -80,8 +80,8 @@ This course was an introduction to the world of data mining, which I've come to 
 
 - Statistics Notes
 
-| | |
-|-|-|
+| |
+|-|
 |**Videos of me teaching**|
 |Statistics lab: https://youtu.be/x-09VU-0Fwc| 
 |Programming demo: https://youtu.be/ulIh7jSIo4E|
