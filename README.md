@@ -75,9 +75,15 @@ This course was an introduction to the world of data mining, which I've come to 
 
 **PERSONAL ENDEVORS**
 - Certifications
+
 - NLP 
-- A video of me teaching: maybe
+
 - Statistics Notes
+
+- Videos of me teaching
+https://youtu.be/x-09VU-0Fwc
+https://youtu.be/ulIh7jSIo4E
+
   
 ## Contact Info
 
