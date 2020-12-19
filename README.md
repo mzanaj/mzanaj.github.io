@@ -81,8 +81,9 @@ This course was an introduction to the world of data mining, which I've come to 
 - Statistics Notes
 
 - Videos of me teaching
-https://youtu.be/x-09VU-0Fwc
-https://youtu.be/ulIh7jSIo4E
+
+Me teaching a statistics lab: https://youtu.be/x-09VU-0Fwc
+Me giving a programming demo: https://youtu.be/ulIh7jSIo4E
 
   
 ## Contact Info
