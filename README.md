@@ -45,7 +45,7 @@ Perhaps a course that thought me the meanining of "One picture a thousands words
 
 | | | |
 |-|-|-|
-|__Personal Project__| Election Resulsts/Predictions |
+|__Personal Project__| Election Results/Predictions |
 |__Description__| In this project, I was required to develop an HTML webpage that included possible insights from the data (through visualization). The key idea was to create a story line, backed by data (Altair Charts) and present it to a less technical audience. The HTML files and as well a rendered PDF of the webpage can be accessed at the link below.   |
 |__Repository__|https://github.com/mzanaj/Information-Visualization/tree/main/Personal%20Project | 
 
