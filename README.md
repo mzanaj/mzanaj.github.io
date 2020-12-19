@@ -10,7 +10,7 @@ This course is an overview of Regression, and its application through R. This is
 
 | | | |
 |-|-|-|
-|__Skills__| R, RMarkdown Reporting, Data Modeling & Analysis |
+|__Skills__| R, RMarkdown Reporting, Data Modeling & Analysis, Statistical Inference |
 |__Topics__| linear regression, ANOVA, diagnostics, Huber's robust regression, LAD, model selection (Mallow's Cp, Adjusted R^2, Ridge, Lasso), Binomial & Poisson regression |
 |__HW Repository__| https://github.com/mzanaj/Linear-Models-with-R |
 
@@ -23,7 +23,7 @@ This course was my introduction to the world of Python and its popular packages.
 |-|-|-|
 |__Skills__| Python, Jupyter, SQL |
 |__Packages__| functools, itertools, numpy, pandas, matplotlib, re, urllib.request, sqlite3|
-|__Topics__| functions, string/file/dataFrame manipulation, class, statistics, SQL Queries, time analysis|
+|__Topics__| functions, string/file/dataFrame manipulation, class, SQL Queries, time analysis|
 |__HW Repository__| https://github.com/mzanaj/Data-Science-Aanalytics-with-Python |  
   
 
@@ -67,8 +67,9 @@ This course was an introduction to the world of data mining, which I've come to 
 
 | | | |
 |-|-|-|
-|__Skill__| |
-|__Topics__|  |
+|__Skill__| Data Mining, Itemset Mining, Graph Analysis |
+|__Packages__| pandas, matplotlib, seaborn, apyori, Scikit-learn, surprise, networkx,  |
+|__Topics__| EDA, feature selection, dataFrame manipulation, apriori, SVD, graph/network, PageRank|
 |__HW Repository__| https://github.com/mzanaj/Data-Mining |  
 
 
