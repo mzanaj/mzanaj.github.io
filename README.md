@@ -33,14 +33,22 @@ Perhaps a course that tought the meanining of "One picture a thousands words." T
 
 | | | |
 |-|-|-|
-|__Skills__|Jupyter, Google Collab, |
+|__Skills__|Jupyter, Google Collab, Tableau, Altair, HTML|
 |__Topics__|  |
-|__HW Repository__| |  
+|__HW Repository__| https://github.com/mzanaj/Information-Visualization |  
 
-- Group Project: Analysis of Planes Crashes. I was responsible for the ideation and implementation of chart #3
-   [LINK]
-- Personal Project: Elections in HTML
-   [LINK]
+| | | |
+|-|-|-|
+|__Group Project__| Analysis of Planes Crashes|
+|__Responsibility__| Chart 3. What are the most common causes of accidents? |
+|__Repository__|https://elaineye117.github.io/flight_crash_analysis/ | 
+
+| | | |
+|-|-|-|
+|__Personal Project__| Election Resulsts/Predictions |
+|__Description__| In this project, I was required to develop an HTML webpage that included possible insights from the data (through visualization). The key idea was to create a story line, backed by data (Altair Charts) and present it to a less technical audience. The HTML files and as well a rendered PDF of the webpage can be accessed at the link below.   |
+|__Repository__|https://github.com/mzanaj/Information-Visualization/tree/main/Personal%20Project | 
+
 
 **APPLIED MACHINE LEARNING**
 
@@ -66,7 +74,7 @@ This course was an introduction to the world of data mining, which I've come to 
 **PERSONAL ENDEVORS**
 - Certifications
 - NLP 
-- A video of me teaching: 
+- A video of me teaching: maybe
 - Statistics Notes
   
 ## Contact Info
