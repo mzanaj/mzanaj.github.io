@@ -104,6 +104,6 @@ This course was an introduction to the world of data mining, which I've come to 
 
 LinkedIn: www.linkedin.com/in/mzanaj
 
-Personal Website: https://mzanaj.blogspot.com/ 
+Personal Blog: https://mzanaj.blogspot.com/ 
 
 email: mzanaj@umich.edu 
