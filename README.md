@@ -56,8 +56,9 @@ One of my favorite course where I was able to take the theory of statistical met
 
 | | | |
 |-|-|-|
-|__Skill__| |
-|__Topics__|  |
+|__Skills__| Data Analysis w/ supervised/unsupervised models |
+|__Packages__|Scikit-learn, keras, numpy, pandas, matplotlib|
+|__Topics__|  KNN, linear/poly/logisitics/LASSO/ridge regression, SVM, tree (Bagging, Random Forest,Boosting), Naive Bayes, deep learning, validation (CV, GS), regularization, metrics (accuracy, MSE, F1,..), ROC, AUC,one hot encoding |
 |__HW Repository__| https://github.com/mzanaj/Applied-Machine-Learning |  
   
 **DATA MINING**
