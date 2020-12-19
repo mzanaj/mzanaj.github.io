@@ -106,4 +106,4 @@ LinkedIn: www.linkedin.com/in/mzanaj
 
 Personal Blog: https://mzanaj.blogspot.com/ 
 
-email: mzanaj@umich.edu 
+Email: mzanaj@umich.edu 
