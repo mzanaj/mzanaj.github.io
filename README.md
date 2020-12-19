@@ -78,19 +78,19 @@ This course was an introduction to the world of data mining, which I've come to 
 | |
 |-|
 |**Certifications**|
-|Notes: These are certs that attest the completion of Data Camp courses. Data Camp is an online platform to develop DS skills| 
+|These are certs that attest the completion of Data Camp courses. Data Camp is an online platform to develop DS skills| 
 |Repository: https://github.com/mzanaj/Data-Camp|
 
 | |
 |-|
 |**NLP**|
-|Notes: A glimpse of the fascinating world of NLP.The material was developed for a seminar presentend to incoming freshman students| 
+|A glimpse of the fascinating world of NLP.The material was developed for a seminar presentend to incoming freshman students| 
 |Repository: https://github.com/mzanaj/NLP |
 
 | |
 |-|
 |**Stats**|
-|Notes: Important topic relevant to both fields of data science and statistics- a mix of theory and practice| 
+|Important topic relevant to both fields of data science and statistics- a mix of theory and practice| 
 |Repository: https://github.com/mzanaj/Statistics |
 
 | |
