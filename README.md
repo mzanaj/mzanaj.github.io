@@ -73,7 +73,7 @@ This course was an introduction to the world of data mining, which I've come to 
 |__HW Repository__| https://github.com/mzanaj/Data-Mining |  
 
 
-**PERSONAL ENDEVORS**
+**PERSONAL ENDEAVORS**
 
 | |
 |-|
