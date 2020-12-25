@@ -100,10 +100,12 @@ This course was an introduction to the world of data mining, which I've come to 
 |Programming demo: https://youtu.be/ulIh7jSIo4E|
   
   
-## Contact Info
+## Contact Info & Public Links
 
 LinkedIn: www.linkedin.com/in/mzanaj
 
 Personal Blog: https://mzanaj.blogspot.com/ 
+
+Tableau Public: https://public.tableau.com/profile/martin6851#!/ 
 
 Email: mzanaj@umich.edu 
