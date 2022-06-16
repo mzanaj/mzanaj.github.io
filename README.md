@@ -1,6 +1,6 @@
 # Welcome to Martin Zanaj's Github 
 
-In this interface, you will find links to homeworks and projects that I have completed as a result of my master's degree in data science at the University of Michigan. The goal is to showcase the different topics and skills that I've been able to acquire and develop. Most of the work is indeed my own, but it is imperative to mention the many resources such as books, videos, and online documentation that I have resorted to in order to better my understanding and ultimately complete the assignments.  
+In this interface, you will find links to homeworks and projects that I have completed as a result of my master's degree in data science at the University of Michigan and more. The goal is to showcase the different topics and skills that I've been able to acquire and develop. Most of the work is indeed my own, but it is imperative to mention the many resources such as books, videos, and online documentation that I have resorted to in order to better my understanding and ultimately complete the assignments.  
 
 ## Master's Courses UMICH
 
