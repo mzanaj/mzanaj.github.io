@@ -72,6 +72,15 @@ This course was an introduction to the world of data mining, which I've come to 
 |__Topics__| EDA, feature selection, dataFrame manipulation, apriori, SVD, graph/network, PageRank|
 |__HW Repository__| https://github.com/mzanaj/Data-Mining |  
 
+**NIH**
+This repository will hold resources pertaining to the NIH-sponsored machine learning project that is being developed at Oregon State University.
+| | | 
+|-|-|
+|__Skill__| Data Pre-processing|
+|__Packages__| pandas, matplotlib, seaborn |
+|__Topics__| EDA |
+|__Repository__|https://github.com/mzanaj/NIH-Machine-Learning |  
+
 
 **PERSONAL ENDEAVORS**
 
