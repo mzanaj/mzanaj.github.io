@@ -1,3 +1,216 @@
+<html>
+	<head>
+		<title>Hotel Reservation System</title>
+		<style>
+		body {background-color:rgb(250,250,250);}
+		
+		h1, h2, h3 {font-family: sans-serif;}
+		
+		.section_0{background-color:lightyellow;}
+		.section_01{background-color:#FFD580;}
+		.section_1{ background-color:powderblue;}
+		.section_2{ background-color:lightgreen;}
+			
+		</style>
+
+	</head>
+	<body>
+	
+		<div class= "section_0">
+		<font size="8">Hotel Reservation System</font>
+		<!-- Reference a section within same HTML page + unordered_list -->
+		<marquee>
+				<!-- Greeting script based on time of day  -->
+				<script>
+				
+				/* this is a comment for JavaScript*/
+					var today= new Date();
+					var hourNow= today.getHours();
+					var greeting; 
+					
+					if(hourNow > 18){
+					greeting = 'Good Evening from ';
+					}else if (hourNow > 12){
+					greeting = 'Good Afternoon from ';
+					}else if (hourNow >0){
+					greeting = 'Good morning from ';
+					}else {
+					greeting= "Welcome to "}
+					document.write('<font size="18">' +greeting+'<i><b><span style="color: red">Fredi s Hotel</span></b></i> Reservation System</font>')
+								  
+				</script>
+				
+		</marquee>
+	
+		<!-- Image Banner-->
+		<img src="Homepage_picture.PNG" alt="Vlore Albania" width="1240"/> <br/>
+		<figcaption> Vlore, Albania </figcaption>
+		
+		</div>
+		
+		
+		<!-- Reference a section within same HTML page + unordered_list -->
+		<div class="section_01">
+
+		<h2>Jump to a particular section </h2>
+		<ul>
+		<li><a href= "#reservation_section"> Reservation Section </a></li> 
+	    <li><a href= "#calendar_section"> Calendar Section </a><br/> </li>
+		</ul>  <br/>
+		</div>
+		
+		<!-- Reservation -->
+		<div class="section_1">
+		<h2 id="reservation_section"> Reservation Section </h2>
+		<p> In here we're going to have the reservation input from the user; most likely an in date and an out date, that will be followed by a confirmation button with user identifier (e.g. name)</p> <br/>
+		
+		<!-- Reservation_user information  -->
+		<h3 id="reservation_user_input"> User Information </h3>
+		<p> In here we're going to have the user information</p> <br/> 
+		
+		<table border="1">
+			<tr> 
+				<th colspan="2" width="600"> User Details </th>		
+			</tr>
+			<tr> 
+				<th> Name:  </th>
+				<td> <form> <input type="text" name="user_name" size="65"></form> </td>
+			</tr>
+			<tr> 
+				<th> Last Name:  </th>
+				<td> <form> <input type="text" name="user_lastname" size="65" ></form> </td>
+
+			</tr>
+			<tr> 
+				<th> Phone Number: </th>
+				<td> <form> <input type="text" name="user_phonenumber" size="65"></form> </td>
+
+			</tr>
+			<tr> 
+				<th> Hotel Name Name: </th>
+				<td> <form> <input type="text" name="hotel_id" size="65"></form> </td>
+
+			</tr>
+			<tr> 
+				<th> Extra Comments: </th>
+				<td> <form> <textarea name="comments" rows="4" cols="61"> </textarea> </form> </td>
+
+			</tr>
+
+		</table>
+		
+		<!-- Reservation_user stay dates  -->
+		<h3 id="reservation_user_stay_dates"> Prenotation Dates </h3>
+		<p> In here we're going to have the prenotation dates- meaning the days that the user will occupy the hotel. </p>
+		
+		<ul> 
+			<li> <i>Arrival date</i>: is the day when the user will come to the hotel (first day)</li>
+			<li> <i>Departure date</i>: is the day when the user will leave to the hotel (last day)</li>
+
+		</ul>
+		</br>
+		<fieldset>
+			<legend> Prenotations Dates</legend>
+				<form> 
+					<label for="user_name"> <b>Arrival Date:  </b></label>
+					<input type="date" name= "arrival"/>
+				    <label for="user_name"> <b>Departure Date:  </b></label>
+					<input type="date" name= "Departure"/>
+					<input type="submit" name= "confirmation_button" value="Confirm Prenotation Dates"/>
+
+				</form>
+
+		</fieldset>
+	    
+		</div>
+
+		<div class="section_2">
+		<!-- Calendar -->
+		<h2 id= "calendar_section"> Calendar Section</h2>
+		<p>In here we're going to display the calendar with the appropriate reservations showing. </p> <br/> <br/>
+		
+		<!-- Table , hard corded -->
+		<table border="1">
+		<thead>
+			<tr> 
+			<th> Month: April </th>
+			
+			</tr>
+			<tr> 
+				<th> Sunday </th>
+				<th> Monday </th>
+				<th> Tuesday </th>
+				<th> Wednesday </th>
+				<th> Thursday </th>
+				<th> Friday </th>
+				<th> Saturday </th>
+			</tr>
+			
+		</thead>
+		<tbody>
+			<tr> 
+				<td> 1 </td>
+				<td> 2</td>
+				<td> 3</td>
+				<td> 4</td>
+				<td> 5</td>
+				<td> 6</td>
+				<td> 7</td>
+			</tr>
+			<tr> 
+				<td> 8 </td>
+				<td> 9</td>
+				<td> 10</td>
+				<td> 11</td>
+				<td> 12</td>
+				<td> 13</td>
+				<td> 14</td>
+			</tr>
+			<tr> 
+				<td> 15 </td>
+				<td> 16</td>
+				<td> 17</td>
+				<td> 18</td>
+				<td> 19</td>
+				<td> 20</td>
+				<td> 21</td>
+			</tr>
+			<tr> 
+				<td> 22 </td>
+				<td> 23</td>
+				<td> 24</td>
+				<td> 25</td>
+				<td> 26</td>
+				<td> 27</td>
+				<td> 28</td>
+			</tr>
+			<tr> 
+				<td> 29 </td>
+				<td> 30 </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+			</tr>
+		</tbody>
+		</table>
+
+		</br>
+		
+		</div>
+		
+		<div id="footer">
+		<!-- Footer, include contact info -->
+		<footer>
+			<address> email: <a href="mailto:mzanaj@umich.edu"> mzanaj@umich.edu</a> <br>
+			phone: <a href="">000-000-0000</a>
+			</address>
+		</footer>
+		</div>
+	</body>
+</html>
+ 
 # Welcome to Martin Zanaj's Github 
 
 In this interface, you will find links to homeworks and projects that I have completed as a result of my master's degree in data science at the University of Michigan and more. The goal is to showcase the different topics and skills that I've been able to acquire and develop. Most of the work is indeed my own, but it is imperative to mention the many resources such as books, videos, and online documentation that I have resorted to in order to better my understanding and ultimately complete the assignments.  
